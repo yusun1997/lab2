@@ -1,0 +1,7 @@
+Height   Mass   BMI   category 
+1.7     68     23.5294 Normal
+1.6     85     33.2031 Obese Class I(Moderately obese)
+1.62     43     16.3847 Underweight
+1.67     80     28.6851 Overweight
+1.92     58     15.7335 Severely underweight
+0     0     -nan WTF
